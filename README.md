@@ -52,12 +52,14 @@ This is an calculator web application with a sleek, three-dimensional design. Th
 
 ```plaintext
 project-directory/
-├── index.html          # Main HTML file
-├── styles.css          # CSS file for styling
-├── script.js           # JavaScript file for calculator logic
+└── .vscode/
+│     └── settings.json
+├── assets/
+│     └── image1.png
 ├── README.md           # Project description and details
-└── assets/
-      └── image1.png
+├── index.html          # Main HTML file
+├── script.js           # JavaScript file for calculator logic
+└── styles.css          # CSS file for styling
 ```
 ---
 ## Author 🖋️
