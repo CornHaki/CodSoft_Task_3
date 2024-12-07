@@ -44,7 +44,7 @@ This is an calculator web application with a sleek, three-dimensional design. Th
  ---
 
 ## Screenshots 📸
-![3D Calculator Screenshot](assets/image1.png)
+![3D Calculator Screenshot](assets/calculator.png)
 
 ---
 
