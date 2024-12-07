@@ -1,10 +1,10 @@
-# **Calculator**
+# **Calculator 🚀**
 
 This is an calculator web application with a sleek, three-dimensional design. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division, along with advanced functionalities such as square root, square, reciprocal, and percentage. It provides a modern user interface designed using HTML, CSS, and JavaScript, with a responsive layout and engaging user interactions.
 
 ---
 
-## **Features**
+## **Features 🌟**
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
 - **Advanced Functions**: 
@@ -21,7 +21,7 @@ This is an calculator web application with a sleek, three-dimensional design. Th
 
 ---
 
-## **Tech Stack**
+## **Tech Stack 🛠️**
 
 - **HTML5**: For the structure of the calculator.
 - **CSS3**: For styling, including gradients, shadows, and animations to create a 3D effect.
@@ -29,7 +29,7 @@ This is an calculator web application with a sleek, three-dimensional design. Th
 
 ---
 
-## Installation and Usage 
+## Installation and Usage 🚀
 
 1. Clone the repository:
    ```bash
@@ -48,12 +48,24 @@ This is an calculator web application with a sleek, three-dimensional design. Th
 
 ---
 
-## **Folder Structure**
+## **📂 Folder Structure**
 
 ```plaintext
 project-directory/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS file for styling
 ├── script.js           # JavaScript file for calculator logic
-└── README.md           # Project description and details
+├── README.md           # Project description and details
+└── assets/
+      └── image1.png
+```
+---
+## Author 🖋️
+Dimpal Baishya
+---
 
+## *📬 Contact Me*
+Feel free to connect with me:
+
+📧 Email: baishyadimpal31@gmail.com
+---
