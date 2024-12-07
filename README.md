@@ -55,7 +55,9 @@ project-directory/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS file for styling
 ├── script.js           # JavaScript file for calculator logic
-└── README.md           # Project description and details
+├── README.md           # Project description and details
+└── assets/
+      └── image1.png
 ```
 ---
 ## Author 🖋️
