@@ -43,6 +43,11 @@ This is an calculator web application with a sleek, three-dimensional design. Th
 
  ---
 
+## Live Demo 🚀
+[Visit Here](https://cornhaki.github.io/CodSoft_Task_3/)
+
+ ---
+
 ## Screenshots 📸
 ![3D Calculator Screenshot](assets/calculator.png)
 
